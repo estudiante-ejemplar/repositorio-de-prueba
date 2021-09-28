@@ -1,2 +1,5 @@
-# repositorio-de-prueba
-Repositorio en que probaremos cómo utilizar git y github esta semana
+# Esto es un repositorio de prueba
+
+Vamos a utilizarlo para mostrar cómo usar git y github. Puedo poner *texto en cursiva*. Puedo poner **texto en negrita**. 
+
+## Este es un subtítulo
